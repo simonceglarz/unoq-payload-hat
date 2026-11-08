@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7f72c500-b575-4f55-ae7e-8085273ac3a7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 162.56 73.66)
+		(size 45.72 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "26168a99-b8cd-4c5b-977e-e71367332715")
+		(property "Sheetname" "sensors"
+			(at 162.56 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 162.56 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "unoq-payload-hat"
+				(path "/7f72c500-b575-4f55-ae7e-8085273ac3a7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 20.32)
+		(size 58.42 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3bd40fd4-2841-4be8-8b72-c179e8345325")
+		(property "Sheetname" "power"
+			(at 153.67 19.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 153.67 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "unoq-payload-hat"
+				(path "/7f72c500-b575-4f55-ae7e-8085273ac3a7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 20.32)
+		(size 33.02 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "542f0ac9-fcc6-49cb-ab07-1b8677a96d06")
+		(property "Sheetname" "can"
+			(at 223.52 19.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 223.52 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "unoq-payload-hat"
+				(path "/7f72c500-b575-4f55-ae7e-8085273ac3a7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 226.06 69.85)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "60744e40-72c5-4084-a7fa-07a7d9490aa2")
+		(property "Sheetname" "actuators"
+			(at 226.06 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "actuators.kicad_sch"
+			(at 226.06 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "unoq-payload-hat"
+				(path "/7f72c500-b575-4f55-ae7e-8085273ac3a7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 19.05)
+		(size 116.84 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ee835b3f-ca73-4173-8c35-a3aca56be131")
+		(property "Sheetname" "unoq_interface"
+			(at 19.05 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unoq_interface.kicad_sch"
+			(at 19.05 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "unoq-payload-hat"
+				(path "/7f72c500-b575-4f55-ae7e-8085273ac3a7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

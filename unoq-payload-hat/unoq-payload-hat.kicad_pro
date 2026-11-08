@@ -395,7 +395,7 @@
       "dashed_lines_dash_length_ratio": 12.0,
       "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
-      "default_text_size": 30.0,
+      "default_text_size": 50.0,
       "field_names": [],
       "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
@@ -430,7 +430,7 @@
         "uuid": "7f72c500-b575-4f55-ae7e-8085273ac3a7"
       }
     ],
-    "used_designators": "#PWR1-7,J1-2",
+    "used_designators": "#FLG1-3,#PWR1-8,J1-2,U1",
     "variants": []
   },
   "sheets": [
